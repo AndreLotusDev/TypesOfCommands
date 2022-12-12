@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExample", "SimpleExam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeCommand", "CompositeCommand\CompositeCommand.csproj", "{929BF7C5-6452-4496-A459-E8E22B14D5B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseCommands.cs", "HouseCommands.cs\HouseCommands.cs.csproj", "{8B60A616-65BB-4F32-9706-3C389C71910F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{929BF7C5-6452-4496-A459-E8E22B14D5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{929BF7C5-6452-4496-A459-E8E22B14D5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{929BF7C5-6452-4496-A459-E8E22B14D5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B60A616-65BB-4F32-9706-3C389C71910F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B60A616-65BB-4F32-9706-3C389C71910F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B60A616-65BB-4F32-9706-3C389C71910F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B60A616-65BB-4F32-9706-3C389C71910F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
