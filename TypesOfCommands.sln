@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExample", "SimpleExam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeCommand", "CompositeCommand\CompositeCommand.csproj", "{929BF7C5-6452-4496-A459-E8E22B14D5B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseCommands.cs", "HouseCommands.cs\HouseCommands.cs.csproj", "{8B60A616-65BB-4F32-9706-3C389C71910F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseCommands", "HouseCommands.cs\HouseCommands.csproj", "{8B60A616-65BB-4F32-9706-3C389C71910F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
